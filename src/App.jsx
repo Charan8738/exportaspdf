@@ -72,7 +72,7 @@ const RegistrationForm = () => {
 
         {/* Add more fields here based on your form structure */}
 
-        <button type="submit" className="button">Submit</button>
+        <button type="submit" className="button">Fill all the datails</button>
       </form>
 
       {/* Render the PDF download link */}
